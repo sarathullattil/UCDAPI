@@ -1,2 +1,2 @@
 # UCDAPI
-Shell Scripts for uDeploy integration with Bamboo using API
+Shell Script for uDeploy integration with Bamboo using API
